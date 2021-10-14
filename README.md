@@ -5,7 +5,7 @@ Paper list on Ethereum with special attention to smart contracts.
 Related Repositories:
 
 - https://github.com/jianyu-niu/blockchain_conference_paper
-- https://github.com/hyeonleee/Smart_Contract_Security_Analysis
+- https://github.com/hzysvilla/Academic_Smart_Contract_Papers
 
 ## Table of Listed Conferences
 
