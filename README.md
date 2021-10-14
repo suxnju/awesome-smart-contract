@@ -36,7 +36,7 @@ Key Words: Smart Contracts, Application (Trasactions) ,Vulnerability Detection.
 - [Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity](https://ieeexplore.ieee.org/document/9152785). Jiao Jiao; Shuanglong Kan; Shang-Wei Lin; David Sanan; Yang Liu; Jun Sun. S&P '20.
 - [VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contracts](https://www.computer.org/csdl/proceedings-article/sp/2020/349700a825/1j2LfVGEWre). Sunbeom So, Myungho Lee, Jisu Park, Heejo Lee, Hakjoo Oh. S&P '20.
 - [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917). Tai D. Nguyen, Long H. Pham, Jun Sun. S&P '21.
-- [MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](#https://arxiv.org/abs/2006.12031). Itay Tsabary, Matan Yechieli, Alex Manuskin, Ittay Eyal. S&P '21.
+- [MAD-HTLC: Because HTLC is Crazy-Cheap to Attack](https://arxiv.org/abs/2006.12031). Itay Tsabary, Matan Yechieli, Alex Manuskin, Ittay Eyal. S&P '21.
 - [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/abs/2103.02228). Liyi Zhou, Kaihua Qin, Antoine Cully, Benjamin Livshits, Arthur Gervais. S&P '21.
 
 ### usenix-security
