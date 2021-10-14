@@ -18,7 +18,7 @@ Related Repositories:
 - [ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference(FSE/ESEC)](#fse)
 - [International Symposium on Software Testing and Analysis(ISSTA)](#issta)
 - [ACM SIGPLAN Conference on Programming Language Design & Implementation(PLDI)](#pldi)
-- [USENIX Symposium on Operating Systems Design and Implementations](#osdi)
+- [USENIX Symposium on Operating Systems Design and Implementations(OSDI)](#osdi)
 
 ## Table of Listed Journals
 
